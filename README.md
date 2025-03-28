@@ -1,4 +1,4 @@
-The Helsinki VideoMEG Project **DEPRECATED**
+The Helsinki VideoMEG Project - DEPRECATED
 =============================
 This repo is deprecated. The development has moved to other repos in the
 [Helsinki Video-MEG Project](https://github.com/Helsinki-VideoMEG-Project)
